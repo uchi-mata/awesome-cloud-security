@@ -6,6 +6,10 @@
 * Great approach: Use language-specific analysis for non-syntax strings first and then run secret detection on this:
   * https://hackernoon.com/modernizing-secrets-scanning-part-2-the-semantic-eureka
 
+## Secret Management Solutions
+
+* <https://github.com/tailscale/setec>
+
 ## Secret Scanners
 
 * https://github.com/N0MoreSecr3ts/wraith

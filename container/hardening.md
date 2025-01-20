@@ -15,3 +15,4 @@
 ## Profiling
 
 * https://github.com/chainguard-dev/bincapz
+* https://github.com/ossf/package-analysis

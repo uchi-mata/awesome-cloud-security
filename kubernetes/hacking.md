@@ -23,3 +23,4 @@
 * Another K8s attack matrix, also not great: https://www.weave.works/blog/mitre-att-ck-matrix-for-kubernetes-tactics-techniques-explained-part-1
 * https://github.com/Rolix44/Kubestroyer
 * https://kubenomicon.com/
+* kube-proxy: <https://raesene.github.io/blog/2025/01/18/Exploring-the-Kubernetes-API-Server-Proxy/>

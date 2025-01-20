@@ -39,3 +39,9 @@
 * https://github.com/awslabs/terraform-iam-policy-validator
 * https://ramimac.me/aws-iam-tools-2024
 * https://iam.cloudcopilot.io/resources/operators
+* <https://iam.cloudcopilot.io/tools/policy-tester>
+
+## Getting Credentials
+
+* <https://www.nojones.net/posts/aws-access-keys-a-reference>
+* <https://www.wiz.io/blog/the-many-ways-to-obtain-credentials-in-aws>
