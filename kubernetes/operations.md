@@ -15,3 +15,4 @@
 * https://github.com/pete911/kubectl-iam4sa
 * https://github.com/eraser-dev/eraser - delete images from cluster
 * Scale workloads to zero: https://github.com/deislabs/osiris
+* <https://goutamtadi.medium.com/optimizing-dns-query-resolutions-in-kubernetes-36095dd317c6>

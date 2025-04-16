@@ -12,3 +12,4 @@
 * Network Policies:
   * https://itnext.io/generating-kubernetes-network-policies-by-sniffing-network-traffic-6d5135fe77db?gi=f459fa6cd767
   * https://itnext.io/lifecycle-of-kubernetes-network-policies-749b5218f684
+* <https://learnk8s.io/kubernetes-services-and-load-balancing>

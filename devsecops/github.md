@@ -24,6 +24,7 @@
 * <https://github.com/jstawinski/GitHub-Actions-Attack-Diagram>
 * <https://woodruffw.github.io/zizmor/>
 * <https://github.com/kulkansecurity/gitxray/>
+* <https://engineering.mercari.com/en/blog/entry/20241217-github-branch-protection/>
 
 ## Mass Repo changes
 

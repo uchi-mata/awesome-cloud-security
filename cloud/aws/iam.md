@@ -45,3 +45,7 @@
 
 * <https://www.nojones.net/posts/aws-access-keys-a-reference>
 * <https://www.wiz.io/blog/the-many-ways-to-obtain-credentials-in-aws>
+
+## RCP
+
+* <https://www.fogsecurity.io/blog/understanding-rcps-and-scps-in-aws>

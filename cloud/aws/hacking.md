@@ -30,3 +30,5 @@
 * https://github.com/WithSecureLabs/cloud-security-vm
 * https://www.wolfe.id.au/2023/11/12/avoid-accidental-exposure-of-authenticated-amazon-api-gateway-resources/
 * https://airwalkreply.com/aws-kms-threat-model
+* <https://www.plerion.com/blog/find-hidden-aws-resources-with-effective-wordlists>
+* <https://www.offensai.com/blog/invoking-misconfigured-api-gateways-from-external-aws-accounts> API Gateways can be invoked from any AWS account

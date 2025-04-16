@@ -11,3 +11,4 @@ Please note that I haven’t exhaustively reviewed all the links or projects bef
 * <https://cloudsecdocs.com/>
 * <https://www.secwiki.cloud/>
 * <https://hackingthe.cloud/>
+* <https://cloudsectools.com/>
